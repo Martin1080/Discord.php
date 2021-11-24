@@ -1,9 +1,11 @@
-[DiscordPHP](https://discord-php.github.io/DiscordPHP)
+[DiscordPHP](https://discord-php.github.io/DiscordPHP) 🤖
 ====
+
+Official DiscordPHP [Documentation](https://discord-php.github.io/DiscordPHP)
 
 PHP Bot simply idles and does NOT interact with anyone and is used to test stability with large numbers of guilds.
 
-You can find the official DiscordPHP creator documentation [here](https://github.com/discord-php/DiscordPHP) and [DiscordPHP Server](https://discord.gg/dphp)
+You can find the official DiscordPHP library creator [here](https://github.com/discord-php/DiscordPHP) and [DiscordPHP Server](https://discord.gg/dphp)
 
 
 ## Before you start
@@ -15,14 +17,14 @@ DiscordPHP will only run in CLI. If you want to have an interface for your bot y
 You can't run DiscordPHP on a webserver (e.g. Apache, nginx).
 
 
-## Setup
+## Setup 🖥
 
 ### Requirements
 - PHP 7.4 or PHP 8.0 (recommended)
 - Composer
-- 
+
 ### Installing Composer
-Official composer documentation is [here](https://getcomposer.org)
+Official composer installation documentation is [here](https://getcomposer.org)
 
 To quickly install Composer in the current directory, run the following script in your terminal.
 
